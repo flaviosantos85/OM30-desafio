@@ -1,4 +1,4 @@
-var url = 'http://localhost/om30/api/1.0/index.php/';
+var url = 'http://localhost/om30/api/v1.0/index.php/';
 
 /***** if there is a patient as argument then return only specific patient and fill out the edit modal *******/ 
 function ajaxRenderPatient(pat = null){
