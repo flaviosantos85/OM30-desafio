@@ -2,7 +2,7 @@
 
 No desafio om30, foi desenvolvida uma api usando framework codeigniter e alimentando um crud com suas devidas operaçoes create, read, upate e delete (softdelete), fazendo uso do material fornecido e usando outras fontes de pesquisa como google.
 
-#Api OM30
+# Api OM30
 endpoints e funcionalidades
 
 method: GET - get-pacientes uri => http://localhost/om30/api/1.0/index.php/paciente/get-pacientes (retorna todos os pacientes no sistema)
@@ -15,7 +15,7 @@ method: POST edit-paciente/id uri => http://localhost/om30/api/1.0/index.php/pac
 
 method: DELETE delete-paciente/id uri => http://localhost/om30/api/1.0/index.php/paciente/delete-paciente/id-paciente (deleta um paciente especifico, nao removendo totalmente do sistema)
 
-#Instalaçao
+# Instalaçao
 desafio feito todo em localhost usando xampp, aconselho colocar o projeto dentro da pasta htdocs
 
 Obrigado a todos pela oportunidade :)
